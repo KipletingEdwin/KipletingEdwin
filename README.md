@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KipletingEdwin
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning at Moringa School
+- 🌱 I’m currently learning Software Development at Moringa School
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me on:My email is rotichedwin27@yahoo.com
 
