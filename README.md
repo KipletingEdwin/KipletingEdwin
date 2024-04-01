@@ -20,7 +20,7 @@ I'm currently expanding my skill set by learning Java. I'm excited to dive deepe
 ## Let's Collaborate!
 I'm always open to collaborating on exciting web development projects. Whether it's brainstorming ideas, writing code, or testing, I'm eager to contribute and learn from others.
 
-Feel free to reach out to me via email at [your@email.com](mailto:rotichkedwin@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kipleting-edwin-25a513120/).
+Feel free to reach out to me via email at [rotichkedwin@gmail.com](mailto:rotichkedwin@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kipleting-edwin-25a513120/).
 
 Let's build something amazing together! 💻🚀
 
