@@ -9,7 +9,7 @@ I'm a passionate software developer with a keen interest in building innovative 
 - **Open Source**: I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can.
 
 ## Skills
-- **Languages**: JavaScript, HTML5, CSS3, Python
+- **Languages**: JavaScript, HTML5, CSS3, Ruby
 - **Frameworks/Libraries**: React.js, Ruby on Rails
 - **Databases**: PostgreSQL
 - **Tools**: Git, VS Code, Postman
