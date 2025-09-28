@@ -1,31 +1,31 @@
-# Hi there, I'm Edwin Kipleting! 👋
+# 👋 Hey, I'm Edwin Kipleting
 
-## About Me
-I'm a passionate software developer with a keen interest in building innovative web applications. I enjoy exploring new technologies and solving complex problems through coding.
+💻 Passionate about building web applications with modern frameworks and clean UI  
+🚀 Constantly learning and sharing what I learn  
+⚡ Interested in **performance, developer experience, and scalable apps**  
 
-## Interests
-- **Software Development**: I'm fascinated by the entire software development lifecycle, from ideation to deployment.
-- **Web Development**: My primary focus is on web development, and I love creating dynamic and responsive websites.
-- **Open Source**: I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can.
+---
 
-## Skills
-- **Languages**: Java, JavaScript, HTML5, CSS3, Ruby
-- **Frameworks/Libraries**: React.js, Ruby on Rails
-- **Databases**: PostgreSQL
-- **Tools**: Git, VS Code, Postman
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KipletingEdwin&show_icons=true&theme=radical)
 
-## Currently Learning
-I'm currently expanding my skill set by learning Java. I'm excited to dive deeper into object-oriented programming and explore its applications in software development.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KipletingEdwin&theme=radical)
 
-## Let's Collaborate!
-I'm always open to collaborating on exciting web development projects. Whether it's brainstorming ideas, writing code, or testing, I'm eager to contribute and learn from others.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipletingEdwin&layout=compact&theme=radical)
 
-Feel free to reach out to me via email at [rotichkedwin@gmail.com](mailto:rotichkedwin@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kipleting-edwin-25a513120/).
+---
 
-Let's build something amazing together! 💻🚀
+## 💡 My Favorite Stack
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
+---
 
-<!---
-KipletingEdwin/KipletingEdwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kipleting-edwin)
+
+---
+✨ _Thanks for visiting my profile!_
+
